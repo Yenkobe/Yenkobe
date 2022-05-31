@@ -1,5 +1,7 @@
 ### Hi there, I'm Yenduy! 👋
 
+* 🔭 I’m currently working on web programming
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yenkobe&theme=radical&show_icons=true" />
 
 📋 Languages : 
