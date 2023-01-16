@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on web programming
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yenkobe&theme=radical&show_icons=true" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yenkobe&&show_icons=true&theme=dark" />
 
 📋 Languages : 
 <br>
