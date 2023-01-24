@@ -31,6 +31,7 @@
 
 🎨 Design :<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src= "https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" />
 
 - 📫 How to reach me: yenduykr@gmail.com
 
