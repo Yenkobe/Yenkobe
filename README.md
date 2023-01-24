@@ -2,7 +2,8 @@
 
 * 🔭 I’m currently working on web programming
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yenkobe&&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yenkobe&theme=dark&show_icons=true" />
+
 
 📋 Languages : 
 <br>
